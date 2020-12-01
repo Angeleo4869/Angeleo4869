@@ -1,13 +1,8 @@
+# Hello! 👋 I'm [Angeleo](https://github.com/Angeleo4869)!
 
-<center> I'm [Angeleo](https://github.com/Angeleo4869) 👋 </center>
+# A Back-End  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-[![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869)](https://github.com/Angeleo4869/Angeleo4869)
+![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869)](
 
 <!--
 **Angeleo4869/Angeleo4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
