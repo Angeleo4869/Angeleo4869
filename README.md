@@ -1,4 +1,3 @@
-```html
 <div align='center'>
     <h1>
         <big>
@@ -9,7 +8,6 @@
     </h1>
     <h2>A Back-End 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h2>
 </div>
-```
 ![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869&hide=javascript,CSS)
 
 <!--
