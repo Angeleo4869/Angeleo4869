@@ -1,7 +1,15 @@
-# Hello! 👋 I'm [Angeleo](https://github.com/Angeleo4869)!
-
-# A Back-End  𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓
-
+```html
+<div align='center'>
+    <h1>
+        <big>
+        Hello! 👋 I'm 
+        <a url="https://github.com/Angeleo4869">Angeleo</a>
+        !
+    	</big>
+    </h1>
+    <h2>A Back-End 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h2>
+</div>
+```
 ![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869&hide=javascript,CSS)
 
 <!--
