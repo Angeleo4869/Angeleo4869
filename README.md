@@ -9,6 +9,9 @@
     <h2>A Back-End 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h2>
 </div>
 
+<a href="https://github.com/Angeleo4869/Study-Golang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Angeleo4869&repo=Study-Golang" /></a>
+
 ![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869&hide=javascript,CSS)
 
 <!--
