@@ -12,8 +12,12 @@
 <a href="https://github.com/Angeleo4869/Study-Golang">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Angeleo4869&repo=Study-Golang" /></a>
 
-![Angeleo's github stats](https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869&hide=javascript,CSS)
-
+<div >
+    <a href="https://github.com/Angeleo4869">
+    <img src="https://github-readme-stats.vercel.app/api?username=Angeleo4869&show_icons=true&theme=buefy?count_private=true" alt="Angeleo's github stats" align = left/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeleo4869" alt="Top Langs" align = right/>
+    </a>
+</div>
 <!--
 **Angeleo4869/Angeleo4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
