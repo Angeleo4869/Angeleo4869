@@ -2,7 +2,7 @@
     <h1>
         <big>
         Hello! 👋 I'm 
-        <a url="https://github.com/Angeleo4869">Angeleo</a>
+        <a href="https://github.com/Angeleo4869">Angeleo</a>
         !
     	</big>
     </h1>
